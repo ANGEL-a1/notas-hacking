@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Big zip"
             }
+          },
+          {
+            "id": "6dfa9e634fcdb37b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General Skills 2/First Find.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "First Find"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -186,6 +201,7 @@
   "active": "cf3fe3fb48ddcae2",
   "lastOpenFiles": [
     "General Skills 2/Big zip.md",
+    "General Skills 2/First Find.md",
     "General Skills 2",
     "General Skills 1/what's a net cat.md",
     "General Skills 1/Warmed Up.md",
