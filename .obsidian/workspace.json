@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ruta.md",
+                "file": "Tarea 4 - Crypto/EVEN RSA CAN BEBROKEN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ruta"
+              "title": "EVEN RSA CAN BEBROKEN"
+            }
+          },
+          {
+            "id": "6f25e084223ebc52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tarea 4 - Crypto/HashCrack.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HashCrack"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,14 +198,15 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "ab176188582b5a21",
+  "active": "cf3fe3fb48ddcae2",
   "lastOpenFiles": [
+    "Tarea 4 - Crypto/EVEN RSA CAN BEBROKEN.md",
+    "Tarea 4 - Crypto/HashCrack.md",
     "Ruta.md",
     "01-GENERAL SKILLS.md",
     "Pasted image 20260228100633.png.md",
     "PLANTILLA.md",
     "README.md",
-    "Tarea 4 - Crypto/EVEN RSA CAN BEBROKEN.md",
     "General Skills 2/Magikarp Ground Mission.md",
     "General Skills 2/Big zip.md",
     "Web 4/MatchTheRegex.md",
@@ -216,7 +232,6 @@
     "General Skills 1/Lets Warm Up.md",
     "General Skills 1/Bases.md",
     "General Skills 1/Glitch Cat.md",
-    "General Skills 1/# First Grep.md",
     "General Skills 1",
     "Pasted image 20260228100626.png",
     "Pasted image 20260228100633.png"
