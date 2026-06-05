@@ -1,7 +1,3 @@
-Aquí tienes la documentación detallada de **asm3**, estructurada para tu Obsidian, y los comandos exactos de `cmd` para guardarlo y subirlo a GitHub sin errores.
-
-## asm3
-
 ### Problem
 
 ¿Qué devuelve `asm3(0xb75a8f13, 0xe1860bd7, 0xc8e62f81)`? Envíe la bandera como un valor hexadecimal (comenzando con '0x'). NOTA: Su envío para esta pregunta NO estará en el formato de bandera normal.
