@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "1644bec604745f9a",
+        "id": "0b3d4fed70a9a0ca",
         "type": "tabs",
         "children": [
           {
-            "id": "ab176188582b5a21",
+            "id": "646be386a1eb81c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tarea 4 - Crypto/EVEN RSA CAN BEBROKEN.md",
+                "file": "Invertir - Parte 3/asm1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "EVEN RSA CAN BEBROKEN"
-            }
-          },
-          {
-            "id": "6f25e084223ebc52",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tarea 4 - Crypto/HashCrack.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "HashCrack"
-            }
-          },
-          {
-            "id": "3f80609172b98b81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tarea 4 - Crypto/Crack the Power.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Crack the Power"
+              "title": "asm1"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -214,10 +185,12 @@
   },
   "active": "cf3fe3fb48ddcae2",
   "lastOpenFiles": [
-    "Ruta.md",
+    "Invertir - Parte 3/asm1.md",
+    "Invertir - Parte 3",
     "Tarea 4 - Crypto/Crack the Power.md",
     "Tarea 4 - Crypto/HashCrack.md",
     "Tarea 4 - Crypto/EVEN RSA CAN BEBROKEN.md",
+    "Ruta.md",
     "01-GENERAL SKILLS.md",
     "Pasted image 20260228100633.png.md",
     "PLANTILLA.md",
@@ -245,7 +218,6 @@
     "General Skills 1/Obedient Cat.md",
     "General Skills 1/Nice netcat....md",
     "General Skills 1/Lets Warm Up.md",
-    "General Skills 1/Bases.md",
     "General Skills 1",
     "Pasted image 20260228100626.png",
     "Pasted image 20260228100633.png"
