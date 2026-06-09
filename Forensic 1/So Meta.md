@@ -1,4 +1,4 @@
-# Extensions
+# # So Meta
 
 ## Descripción del Reto
 Este reto introductorio (150 puntos) pertenece a la categoría de Forense Computacional y se enfoca en el análisis de consistencia de tipos de archivos mediante el examen de metadatos y firmas digitales estructuradas (*Magic Bytes*). El desafío proporciona un archivo erróneamente indexado como `flag.txt`. El objetivo es identificar su firma estructural verdadera, corregir la extensión del contenedor y renderizar el flujo binario para extraer la bandera.
