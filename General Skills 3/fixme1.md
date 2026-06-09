@@ -1,3 +1,5 @@
+# fixme1
+
 Descripción del Reto
 Este reto nos presenta un script en Python (fixme1.py) que contiene un error de sintaxis que impide su correcta ejecución. El objetivo es realizar un análisis estático sobre el código fuente para corregir la falla de estructura, eludir la ejecución interactiva dañada y descifrar la cadena de texto protegida, la cual corresponde a la bandera (flag) del reto.
 
@@ -16,4 +18,4 @@ Para resolverlo, se aplicó ingeniería inversa básica corrigiendo el bloque de
 * Se revierte la función XOR utilizando la contraseña estática `enkidu` para extraer la bandera estructurada.
 
 Flag Obtenida:
-PEGAR_AQUÍ_LA_FLAG_QUE_TE_DE_LA_TERMINAL
+picoCTF{1nd3nt1ty_cr1515_182342f7}
