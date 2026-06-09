@@ -1,3 +1,5 @@
+# fixme2
+
 Descripción del Reto
 Este reto nos presenta un script en Python (fixme2.py) que contiene un error de sintaxis en su bloque condicional que impide su ejecución. El objetivo es realizar un análisis estático sobre el código fuente para corregir el operador lógico erróneo, eludir la ejecución dañada y descifrar la cadena de texto protegida, la cual corresponde a la bandera (flag) del reto.
 
